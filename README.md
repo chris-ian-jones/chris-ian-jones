@@ -2,6 +2,7 @@
 
 #### I'm a Full-Stack Web Developer located in Telford, England with 2 years professional experience as an Angular developer. I'm used to long hours, solving problems on my own, pushing through challenges, and seeing tasks through to their completion from start to finish. As a former e-commerce seller who has designed physical products, I have extensive experience in transforming ideas into products and bringing them to market.
 
+<br>
 
 - 🏢 I'm currently looking for work
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
