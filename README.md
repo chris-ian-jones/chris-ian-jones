@@ -10,4 +10,4 @@
 - 🌱 Learning all about **Blockchain**
 - 💬 Ping me about **angular**, **development**, **design**, **branding**, **design thinking**, **GDS**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chris%20Jones-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-ian-jones/)](https://www.linkedin.com/in/chris-ian-jones/) [![Gmail Badge](https://img.shields.io/badge/-hello@chris-jones.dev-c14438?style=social&logo=Gmail&logoColor=white&link=mailto:hello@chris-jones.dev)](mailto:hello@chris-jones.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Chris%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-ian-jones/)](https://www.linkedin.com/in/chris-ian-jones/) [![Gmail Badge](https://img.shields.io/badge/-Chris%20Jones-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@chris-jones.dev)](mailto:hello@chris-jones.dev)
