@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm a full-stack developer located in Birmingham, England with 4+ years professional experience as an Angular developer. I'm used to long hours, solving problems on my own, pushing through challenges, and seeing tasks through to their completion from start to finish. As a former e-commerce seller who has designed physical products, I have extensive experience in transforming ideas into designs, creating products from those designs and then bringing them to market.
-
+#### Dynamic Software Engineer with over 4 years of professional experience specialising in Angular-based single-page applications (SPAs) for enterprise-scale projects in GovTech and Telematics. Adept at delivering responsive, user-focused solutions using TypeScript, SASS, and the Angular ecosystem. Skilled in Agile/Scrum methodologies, Gov Design System compliance, and creating high-fidelity prototypes with Figma and Adobe XD. Passionate about clean code, usability, and innovative design.
 <br>
 
 - 🏢 I'm currently looking for work
