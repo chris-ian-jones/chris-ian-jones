@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Dynamic Software Engineer with over 4 years of professional experience specialising in Angular-based single-page applications (SPAs) for enterprise-scale projects in GovTech and Telematics. Adept at delivering responsive, user-focused solutions using TypeScript, SASS, and the Angular ecosystem. Skilled in Agile/Scrum methodologies, Gov Design System compliance, and creating high-fidelity prototypes with Figma and Adobe XD. Passionate about clean code, usability, and innovative design.
+#### Dynamic Software Engineer specialising in Angular-based single-page applications (SPAs) for enterprise-scale projects in GovTech and Telematics. Adept at delivering responsive, user-focused solutions using TypeScript, SASS, and the Angular ecosystem. Skilled in Agile/Scrum methodologies, Gov Design System compliance, and creating high-fidelity prototypes with Figma and Adobe XD. Passionate about clean code, usability, and innovative design.
 <br>
 
 - 🏢 I'm currently looking for work
